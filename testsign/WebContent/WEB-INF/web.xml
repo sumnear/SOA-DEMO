@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>testsign</display-name>
+  
+  	<!-- 服务消费者 -->
+	<servlet>
+		<servlet-name>DigestServiceConsumer</servlet-name>
+		<servlet-class>com.http.testhttprpc.DigestServiceConsumer</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DigestServiceConsumer</servlet-name>
+		<url-pattern>/digestconsumer.do</url-pattern>
+	</servlet-mapping>
+
+	<!-- 服务提供方 -->
+	<servlet>
+		<servlet-name>DigestServiceProvider</servlet-name>
+		<servlet-class>com.http.testhttprpc.DigestServiceProvider</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DigestServiceProvider</servlet-name>
+		<url-pattern>/digestprovider.do</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 服务消费者 -->
+	<servlet>
+		<servlet-name>SignServiceConsumer</servlet-name>
+		<servlet-class>com.http.testhttprpc.SignServiceConsumer</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SignServiceConsumer</servlet-name>
+		<url-pattern>/signconsumer.do</url-pattern>
+	</servlet-mapping>
+
+	<!-- 服务提供方 -->
+	<servlet>
+		<servlet-name>SignServiceProvider</servlet-name>
+		<servlet-class>com.http.testhttprpc.SignServiceProvider</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SignServiceProvider</servlet-name>
+		<url-pattern>/signprovider.do</url-pattern>
+	</servlet-mapping>
+  
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>

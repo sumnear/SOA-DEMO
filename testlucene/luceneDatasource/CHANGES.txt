@@ -1,0 +1,18 @@
+Lucene contrib change Log
+
+======================= Release 2.9.0 2009-09-23 =======================
+
+Changes in runtime behavior
+
+ * LUCENE-1505: Local lucene now uses org.apache.lucene.util.NumericUtils for all
+    number conversion.  You'll need to fully re-index any previously created indexes.
+    This isn't a break in back-compatibility because local Lucene has not yet
+    been released.  (Mike McCandless)
+ 
+ * LUCENE-1758: ArabicAnalyzer now uses the light10 algorithm, has a refined
+    default stopword list, and lowercases non-Arabic text.  
+    You'll need to fully re-index any previously created indexes. This isn't a 
+    break in back-compatibility because ArabicAnalyzer has not yet been 
+    released.  (Robert Muir)
+
+    room room    room room    room room    room room    room room

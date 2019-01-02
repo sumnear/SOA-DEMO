@@ -1,0 +1,26 @@
+#!/bin/bash
+#chenkangxian@gmail.com
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+CURL=/usr/local/bin/curl
+URL_FILE=/home/longlong/temp/urls.check
+HOST="http://192.168.2.105:8080"
+OUTPUT=""
+STATUS=1 #1:success 2:error
+
+while read LINE
+do
+ result=`$CURL -s -I ${HOST}${LINE} | grep 'Server-Status' | awk -F : '{print $2}'`
+ if [[ $result = *ok* ]];then
+   continue
+ else
+   STATUS=2
+   OUTPUT="$OUTPUT $LINE"
+ fi
+done < $URL_FILE
+
+if [ $STATUS -eq 1 ];then
+ echo "success"
+else
+ echo "$OUTPUT error"
+fi
+exit 0

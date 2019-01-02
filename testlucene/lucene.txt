@@ -1,0 +1,37 @@
+建索引的时候用什么分词，查询的 时候就必须用对应的分词器进行分词
+
+lucene分词 en
+1.输入文本
+Chenkangxian had got to american
+
+2.关键词切分
+Chenkangxian
+had
+got
+to
+american
+
+3.去停用词 to
+Chenkangxian
+had
+got
+american
+
+4.形态还原
+Chenkangxian
+have
+get
+american
+
+5.转为小写
+chenkangxian
+hava
+get
+american
+
+
+lecene分词 zh
+单字分词
+二分法分词
+词典分词 一般能做到词典分词 (极易分词,庖丁分词)
+语义分析(最佳) 目前中科院有一个

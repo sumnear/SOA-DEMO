@@ -1,0 +1,76 @@
+Thread 0x36bb5fc0
+
+  locals:
+
+Thread 0x36bb6030
+
+  locals:
+
+Thread 0x36bb60a0
+  at java.lang.Object.wait(J)V (Native Method)
+  at java.lang.ref.ReferenceQueue.remove(J)Ljava/lang/ref/Reference; (ReferenceQueue.java:118)
+  at java.lang.ref.ReferenceQueue.remove()Ljava/lang/ref/Reference; (ReferenceQueue.java:134)
+  at java.lang.ref.Finalizer$FinalizerThread.run()V (Finalizer.java:171)
+
+  locals:
+    objectId=0x36bb6118, line=1
+    objectId=0x36bb6110, line=1
+    objectId=0x36bb6118, line=2
+    objectId=0x36bb60a0, line=3
+
+Thread 0x36bb6130
+  at java.lang.Object.wait(J)V (Native Method)
+  at java.lang.Object.wait()V (Object.java:485)
+  at java.lang.ref.Reference$ReferenceHandler.run()V (Reference.java:116)
+
+  locals:
+    objectId=0x36bb61a0, line=1
+    objectId=0x36bb6130, line=2
+    objectId=0x36bb61a0, line=2
+
+Thread 0x36bb6250
+  at java.lang.OutOfMemoryError.<init>()V (OutOfMemoryError.java:25)
+  at java.nio.CharBuffer.allocate(I)Ljava/nio/CharBuffer; (CharBuffer.java:312)
+  at java.nio.charset.CharsetEncoder.isLegalReplacement([B)Z (CharsetEncoder.java:319)
+  at java.nio.charset.CharsetEncoder.replaceWith([B)Ljava/nio/charset/CharsetEncoder; (CharsetEncoder.java:267)
+  at java.nio.charset.CharsetEncoder.<init>(Ljava/nio/charset/Charset;FF[B)V (CharsetEncoder.java:186)
+  at java.nio.charset.CharsetEncoder.<init>(Ljava/nio/charset/Charset;FF)V (CharsetEncoder.java:209)
+  at sun.nio.cs.ext.DoubleByteEncoder.<init>(Ljava/nio/charset/Charset;[S[Ljava/lang/String;)V (DoubleByteEncoder.java:31)
+  at sun.nio.cs.ext.GBK$Encoder.<init>(Ljava/nio/charset/Charset;)V (GBK.java:6786)
+  at sun.nio.cs.ext.GBK.newEncoder()Ljava/nio/charset/CharsetEncoder; (GBK.java:36)
+  at java.lang.StringCoding$StringEncoder.<init>(Ljava/nio/charset/Charset;Ljava/lang/String;)V (StringCoding.java:215)
+  at java.lang.StringCoding$StringEncoder.<init>(Ljava/nio/charset/Charset;Ljava/lang/String;Ljava/lang/StringCoding$1;)V (StringCoding.java:207)
+  at java.lang.StringCoding.encode(Ljava/lang/String;[CII)[B (StringCoding.java:266)
+  at java.lang.StringCoding.encode([CII)[B (StringCoding.java:284)
+  at java.lang.String.getBytes()[B (String.java:986)
+  at TestOOM$Obj.<init>()V (TestOOM.java:7)
+  at TestOOM.main([Ljava/lang/String;)V (TestOOM.java:14)
+
+  locals:
+    objectId=0x36a8ff28, line=2
+    objectId=0x36a8ff60, line=2
+    objectId=0x36a8ff70, line=2
+    objectId=0x36a8ffc0, line=2
+    objectId=0x36a8ff28, line=3
+    objectId=0x36a8ff60, line=3
+    objectId=0x36a8ff28, line=4
+    objectId=0x36bb7b90, line=4
+    objectId=0x36a8ff60, line=4
+    objectId=0x36a8ff28, line=5
+    objectId=0x36bb7b90, line=5
+    objectId=0x36a8ff28, line=6
+    objectId=0x36bb7b90, line=6
+    objectId=0x36bb6328, line=6
+    objectId=0x36bb6538, line=6
+    objectId=0x36a8ff28, line=7
+    objectId=0x36bb7b90, line=7
+    objectId=0x36bb7b90, line=8
+    objectId=0x36a8ff10, line=9
+    objectId=0x36bb7b90, line=9
+    objectId=0x3c08a438, line=9
+    objectId=0x3706d040, line=11
+    objectId=0x3c08a438, line=11
+    objectId=0x3706d040, line=12
+    objectId=0x3c08a438, line=12
+    objectId=0x36bb61a8, line=15
+
