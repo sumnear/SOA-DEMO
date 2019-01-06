@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testrouteandloadbalance/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testrouteandloadbalance/lib/zkclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testrouteandloadbalance/lib/zookeeper-3.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testrouteandloadbalance/lib/log4j-1.2.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

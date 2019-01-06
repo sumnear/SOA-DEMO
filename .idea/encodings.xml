@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/encrypt/src/com/http/encrypt/TestAsymmetrical.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encrypt/src/com/http/encrypt/TestDigest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encrypt/src/com/http/encrypt/TestPerformance.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encrypt/src/com/http/encrypt/TestSingature.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/encrypt/src/com/http/encrypt/TestSymmetrical.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testcertificate/src/com/http/testcertificate/TestCertificate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhbase/src/com/http/testhbase/TestHbase.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/BaseService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/JsonResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/JsonUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/SayHelloService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/ServiceConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testhttprpc/src/com/http/testhttprpc/ServiceProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testlucene/lucene.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testlucene/luceneDatasource/小笑话_总统的房间Room.Txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testlucene/src/com/http/testlucene/TestLucene.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testredis/src/com/http/testredis/RedisTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testrouteandloadbalance/src/com/http/routeandloadbalance/ServiceAProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testrouteandloadbalance/src/com/http/routeandloadbalance/ServiceBProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testrouteandloadbalance/src/com/http/routeandloadbalance/ServiceConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testserialization/src/com/http/testserialization/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testserialization/src/com/http/testserialization/TestHessianSerialization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testserialization/src/com/http/testserialization/TestJSONSerialization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testserialization/src/com/http/testserialization/TestJavaSerialization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testserialization/src/com/http/testserialization/TestXMLSerialization.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/AsymmetricalUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/BaseService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/DigestServiceConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/DigestServiceProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/JsonResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/JsonUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/SayHelloService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/SignServiceConsumer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testsign/src/com/http/testhttprpc/SignServiceProvider.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validatefile/src/com/http/validatefile/FileType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/validatefile/src/com/http/validatefile/FileTypeJudge.java" charset="UTF-8" />
+  </component>
+</project>

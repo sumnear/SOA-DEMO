@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testredis/lib/jedis-2.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

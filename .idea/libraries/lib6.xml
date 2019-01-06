@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/htrace-core-2.01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/hbase-client-0.96.1.1-hadoop1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/zookeeper-3.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/hadoop-core-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/hbase-common-0.96.1.1-hadoop1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/commons-configuration-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/jackson-mapper-asl-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/commons-codec-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/guava-12.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/netty-3.6.6.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/jackson-core-asl-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/jackson-jaxrs-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/jackson-xc-1.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testhbase/lib/hbase-protocol-0.96.1.1-hadoop1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

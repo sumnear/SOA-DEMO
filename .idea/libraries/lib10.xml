@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testbtrace/WebContent/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testbtrace/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testbtrace/WebContent/WEB-INF/lib/jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

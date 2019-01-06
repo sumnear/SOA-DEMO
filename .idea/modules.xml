@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SOA-DEMO.iml" filepath="$PROJECT_DIR$/.idea/SOA-DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commonproblem/commonproblem.iml" filepath="$PROJECT_DIR$/commonproblem/commonproblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encrypt/encrypt.iml" filepath="$PROJECT_DIR$/encrypt/encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testatomicandlock/testatomicandlock.iml" filepath="$PROJECT_DIR$/testatomicandlock/testatomicandlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbtrace/testbtrace.iml" filepath="$PROJECT_DIR$/testbtrace/testbtrace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testcertificate/testcertificate.iml" filepath="$PROJECT_DIR$/testcertificate/testcertificate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhbase/testhbase.iml" filepath="$PROJECT_DIR$/testhbase/testhbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testhttprpc/testhttprpc.iml" filepath="$PROJECT_DIR$/testhttprpc/testhttprpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testlucene/testlucene.iml" filepath="$PROJECT_DIR$/testlucene/testlucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testprotocol/testprotocol.iml" filepath="$PROJECT_DIR$/testprotocol/testprotocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testredis/testredis.iml" filepath="$PROJECT_DIR$/testredis/testredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrestfulrpc/testrestfulrpc.iml" filepath="$PROJECT_DIR$/testrestfulrpc/testrestfulrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrouteandloadbalance/testrouteandloadbalance.iml" filepath="$PROJECT_DIR$/testrouteandloadbalance/testrouteandloadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testserialization/testserialization.iml" filepath="$PROJECT_DIR$/testserialization/testserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsign/testsign.iml" filepath="$PROJECT_DIR$/testsign/testsign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testtcprpc/testtcprpc.iml" filepath="$PROJECT_DIR$/testtcprpc/testtcprpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validatefile/validatefile.iml" filepath="$PROJECT_DIR$/validatefile/validatefile.iml" />
+    </modules>
+  </component>
+</project>

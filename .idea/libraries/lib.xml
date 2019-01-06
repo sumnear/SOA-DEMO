@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testserialization/lib/xstream-1.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testserialization/lib/jackson-all-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testserialization/lib/hessian-4.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

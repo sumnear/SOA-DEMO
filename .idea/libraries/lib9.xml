@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/IKAnalyzer3.2.0Stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/lucene-core-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/lucene-highlighter-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/lucene-analyzers-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/paoding-analysis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/lucene-highlighter-2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/testlucene/lib/je-analysis-1.5.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

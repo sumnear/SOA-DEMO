@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lib8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/testatomicandlock/lib/mysql-connector-java-5.1.18-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
