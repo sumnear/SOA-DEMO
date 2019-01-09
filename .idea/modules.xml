@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/SOA-DEMO.iml" filepath="$PROJECT_DIR$/.idea/SOA-DEMO.iml" />
       <module fileurl="file://$PROJECT_DIR$/commonproblem/commonproblem.iml" filepath="$PROJECT_DIR$/commonproblem/commonproblem.iml" />
       <module fileurl="file://$PROJECT_DIR$/encrypt/encrypt.iml" filepath="$PROJECT_DIR$/encrypt/encrypt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/selfcheck/selfcheck.iml" filepath="$PROJECT_DIR$/selfcheck/selfcheck.iml" />
       <module fileurl="file://$PROJECT_DIR$/testatomicandlock/testatomicandlock.iml" filepath="$PROJECT_DIR$/testatomicandlock/testatomicandlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/testbtrace/testbtrace.iml" filepath="$PROJECT_DIR$/testbtrace/testbtrace.iml" />
       <module fileurl="file://$PROJECT_DIR$/testcertificate/testcertificate.iml" filepath="$PROJECT_DIR$/testcertificate/testcertificate.iml" />
